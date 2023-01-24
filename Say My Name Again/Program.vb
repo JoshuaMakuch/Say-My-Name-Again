@@ -11,7 +11,9 @@ Module Program
         Console.WriteLine("Hello, what is your name?")
         Dim userName As String = Console.ReadLine()
         If (userName = "Emily") Or (userName = "Joe") Then
-            Console.WriteLine($"Oh! Welcome back {userName}!") '
+            Console.WriteLine($"Oh! Welcome back {userName}!")
+        ElseIf (userName = "Joshua") Then
+            Console.WriteLine($"Error 404: User {userName} DOES NOT EXIST")
         Else
             Console.WriteLine("Interesting, I've never heard of you before...")
             Thread.Sleep(500)
