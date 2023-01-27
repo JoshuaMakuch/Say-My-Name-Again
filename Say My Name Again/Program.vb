@@ -3,8 +3,13 @@
 'Fall 2023
 'Say My Name...Again
 'https://github.com/JoshuaMakuch/Say-My-Name-Again.git
+
+Option Explicit On
+Option Strict On
+
 Imports System
 Imports System.Threading
+
 
 Module Program
     Sub Main(args As String())
