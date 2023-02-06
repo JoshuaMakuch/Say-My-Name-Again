@@ -1,6 +1,6 @@
 'Joshua Makuch
 'RCET0265
-'Fall 2023
+'Winter 2023
 'Say My Name...Again
 'https://github.com/JoshuaMakuch/Say-My-Name-Again.git
 
